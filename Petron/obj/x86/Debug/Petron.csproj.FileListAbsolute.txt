@@ -1,0 +1,386 @@
+D:\Final_Capstone\Petron\Petron\bin\Debug\Petron.exe
+D:\Final_Capstone\Petron\Petron\bin\Debug\Petron.pdb
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.Form1.resources
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.Properties.Resources.resources
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.csproj.GenerateResource.Cache
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.exe
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.pdb
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.Classification.resources
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.SubClassification.resources
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.StockRegistration.resources
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.StockEntry.resources
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.POS.resources
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.Supplier.resources
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.Sales_and_Expenses_Summary.resources
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.Viscosity.resources
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.Customer.resources
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.Category.resources
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.Type.resources
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.Stock_Entry_Inventory.resources
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.csprojResolveAssemblyReference.cache
+D:\Final_Capstone\Petron\Petron\obj\x86\Debug\Petron.Cashiering.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.exe
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.pdb
+F:\ANDrO_Capstone\2\Petron\Petron\bin\Debug\Petron.exe
+F:\ANDrO_Capstone\2\Petron\Petron\bin\Debug\Petron.pdb
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.csprojResolveAssemblyReference.cache
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.Cashiering.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.Category.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.Classification.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.Customer.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.POS.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.Sales_and_Expenses_Summary.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.StockEntry.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.Stock_Entry_Inventory.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.SubClassification.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.Form1.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.Properties.Resources.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.StockRegistration.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.Supplier.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.Type.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.Viscosity.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.csproj.GenerateResource.Cache
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.Stock_Monitoring.resources
+F:\ANDrO_Capstone\2\Petron\Petron\obj\x86\Debug\Petron.Product_Stock_Entries.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.exe
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.pdb
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\bin\Debug\Petron.exe
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\bin\Debug\Petron.pdb
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.Category.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.Classification.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.Customer.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.POS.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.Product_Stock_Entries.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.Sales_and_Expenses_Summary.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.StockEntry.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.Stock_Entry_Inventory.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.Stock_Monitoring.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.SubClassification.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.Form1.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.Properties.Resources.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.StockRegistration.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.Supplier.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.Type.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.Viscosity.resources
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.csproj.GenerateResource.Cache
+C:\Users\user\Documents\ANDrO_Capstone\3\Petron\Petron\obj\x86\Debug\Petron.Order_Entry.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.exe
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.pdb
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\bin\Debug\Petron.exe
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\bin\Debug\Petron.pdb
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.Order_Entry.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.Category.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.Classification.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.Customer.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.POS.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.Product_Stock_Entries.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.Sales_and_Expenses_Summary.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.StockEntry.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.Stock_Entry_Inventory.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.Stock_Monitoring.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.SubClassification.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.Form1.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.Properties.Resources.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.StockRegistration.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.Supplier.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.Type.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.Viscosity.resources
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.csproj.GenerateResource.Cache
+C:\Users\user\Documents\ANDrO_Capstone\4\Petron\Petron\obj\x86\Debug\Petron.Billing.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.exe
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.pdb
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\bin\Debug\Petron.exe
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\bin\Debug\Petron.pdb
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.Billing.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.Order_Entry.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.Category.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.Classification.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.Customer.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.POS.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.Product_Stock_Entries.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.Sales_and_Expenses_Summary.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.StockEntry.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.Stock_Entry_Inventory.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.Stock_Monitoring.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.SubClassification.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.Form1.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.Properties.Resources.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.StockRegistration.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.Supplier.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.Type.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.Viscosity.resources
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.csproj.GenerateResource.Cache
+C:\Users\user\Documents\ANDrO_Capstone\5\Petron\Petron\obj\x86\Debug\Petron.Pay_Balance.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.exe
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.pdb
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\bin\Debug\Petron.exe
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\bin\Debug\Petron.pdb
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Billing.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Order_Entry.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Category.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Classification.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Customer.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Pay_Balance.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.POS.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Product_Stock_Entries.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Sales_and_Expenses_Summary.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.StockEntry.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Stock_Entry_Inventory.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Stock_Monitoring.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.SubClassification.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Form1.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Properties.Resources.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.StockRegistration.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Supplier.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Type.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Viscosity.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.csproj.GenerateResource.Cache
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\bin\Debug\Petron.exe.config
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Collectibles_Report.resources
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\RdlCompile.cache
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\RdlCompile.compiled
+C:\Users\user\Documents\ANDrO_Capstone\6\Petron\Petron\obj\x86\Debug\Petron.Collections_Report.resources
+C:\Users\user\Documents\ANDrO_Capstone\7\Petron\Petron\bin\Debug\Petron.exe.config
+C:\Users\user\Documents\ANDrO_Capstone\7\Petron\Petron\obj\x86\Debug\Petron.exe
+C:\Users\user\Documents\ANDrO_Capstone\7\Petron\Petron\obj\x86\Debug\Petron.pdb
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\bin\Debug\Petron.exe.config
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.exe
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.pdb
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\bin\Debug\Petron.exe
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\bin\Debug\Petron.pdb
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Billing.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Collectibles_Report.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Collections_Report.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Order_Entry.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Category.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Classification.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Customer.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Pay_Balance.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.POS.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Product_Stock_Entries.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Sales_and_Expenses_Summary.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.StockEntry.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Stock_Entry_Inventory.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Stock_Monitoring.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.SubClassification.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Form1.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Properties.Resources.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.StockRegistration.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Supplier.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Type.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Viscosity.resources
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.csproj.GenerateResource.Cache
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\RdlCompile.cache
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\RdlCompile.compiled
+C:\Users\user\Documents\ANDrO_Capstone\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Billing_Statement.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\bin\Debug\Petron.exe.config
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.exe
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.pdb
+F:\androCaps\8 - Recommendations\Petron\Petron\bin\Debug\Petron.exe
+F:\androCaps\8 - Recommendations\Petron\Petron\bin\Debug\Petron.pdb
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Billing.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Billing_Statement.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Order_Entry.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Category.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Classification.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Customer.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Pay_Balance.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.POS.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Product_Stock_Entries.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Sales_and_Expenses_Summary.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.StockEntry.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Stock_Entry_Inventory.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Stock_Monitoring.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.SubClassification.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Form1.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Properties.Resources.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.StockRegistration.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Supplier.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Type.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Viscosity.resources
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\RdlCompile.cache
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\RdlCompile.compiled
+F:\androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.All_Reports.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\bin\Debug\Petron.exe.config
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.exe
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.pdb
+F:\ \androCaps\8 - Recommendations\Petron\Petron\bin\Debug\Petron.exe
+F:\ \androCaps\8 - Recommendations\Petron\Petron\bin\Debug\Petron.pdb
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.csprojResolveAssemblyReference.cache
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.All_Reports.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Billing.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Billing_Statement.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Order_Entry.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Category.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Classification.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Customer.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Pay_Balance.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.POS.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Product_Stock_Entries.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Sales_and_Expenses_Summary.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.StockEntry.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Stock_Entry_Inventory.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Stock_Monitoring.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.SubClassification.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Form1.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Properties.Resources.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.StockRegistration.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Supplier.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Type.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Viscosity.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.csproj.GenerateResource.Cache
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\RdlCompile.cache
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\RdlCompile.compiled
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Print_Customer_Transactions.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.All_Petron_dateRange_Reports.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Print_Collections.resources
+F:\ \androCaps\8 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Print_Collectibles.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\bin\Debug\Petron.exe.config
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.exe
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.pdb
+F:\androCaps\9 - Recommendations\Petron\Petron\bin\Debug\Petron.exe
+F:\androCaps\9 - Recommendations\Petron\Petron\bin\Debug\Petron.pdb
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.csprojResolveAssemblyReference.cache
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.All_Petron_dateRange_Reports.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.All_Reports.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Billing.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Billing_Statement.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Order_Entry.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Category.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Classification.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Customer.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Pay_Balance.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.POS.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Print_Collectibles.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Print_Collections.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Print_Customer_Transactions.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Product_Stock_Entries.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Sales_and_Expenses_Summary.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.StockEntry.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Stock_Entry_Inventory.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Stock_Monitoring.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.SubClassification.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Form1.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Properties.Resources.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.StockRegistration.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Supplier.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Type.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Viscosity.resources
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.csproj.GenerateResource.Cache
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\RdlCompile.cache
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\RdlCompile.compiled
+F:\androCaps\9 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Sales_Report.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\bin\Debug\Petron.exe.config
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.exe
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.pdb
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\bin\Debug\Petron.exe
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\bin\Debug\Petron.pdb
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.csprojResolveAssemblyReference.cache
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.All_Petron_dateRange_Reports.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.All_Reports.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Billing.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Billing_Statement.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Order_Entry.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Category.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Classification.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Customer.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Pay_Balance.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.POS.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Print_Collectibles.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Print_Collections.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Print_Customer_Transactions.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Product_Stock_Entries.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Sales_and_Expenses_Summary.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Sales_Report.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.StockEntry.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Stock_Entry_Inventory.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Stock_Monitoring.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.SubClassification.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Form1.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Properties.Resources.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.StockRegistration.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Supplier.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Type.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.Viscosity.resources
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\Petron.csproj.GenerateResource.Cache
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\RdlCompile.cache
+D:\Final_Capstone\10 - Recommendations\Petron\Petron\obj\x86\Debug\RdlCompile.compiled
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\bin\Debug\Petron.exe.config
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.exe
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.pdb
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\bin\Debug\Petron.exe
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\bin\Debug\Petron.pdb
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.csprojResolveAssemblyReference.cache
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.All_Petron_dateRange_Reports.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.All_Reports.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Billing.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Billing_Statement.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Order_Entry.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Category.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Classification.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Customer.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Pay_Balance.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.POS.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Print_Collectibles.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Print_Collections.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Print_Customer_Transactions.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Product_Stock_Entries.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Sales_and_Expenses_Summary.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Sales_Report.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.StockEntry.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Stock_Entry_Inventory.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Stock_Monitoring.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.SubClassification.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Form1.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Properties.Resources.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.StockRegistration.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Supplier.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Type.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Viscosity.resources
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.csproj.GenerateResource.Cache
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\RdlCompile.cache
+D:\Final_Capstone\10 - Recommendations\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\RdlCompile.compiled
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\bin\Debug\Petron.exe.config
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.exe
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.pdb
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.All_Petron_dateRange_Reports.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.All_Reports.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Billing.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Billing_Statement.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Order_Entry.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Category.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Classification.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Customer.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Pay_Balance.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.POS.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Print_Collectibles.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Print_Collections.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Print_Customer_Transactions.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Product_Stock_Entries.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Sales_and_Expenses_Summary.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Sales_Report.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.StockEntry.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Stock_Entry_Inventory.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Stock_Monitoring.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.SubClassification.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Form1.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Properties.Resources.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.StockRegistration.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Supplier.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Type.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\Petron.Viscosity.resources
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\RdlCompile.cache
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\obj\x86\Debug\RdlCompile.compiled
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\bin\Debug\Petron.exe
+D:\Visual Studio Projects\Final_PETRON_SYSTEM\Petron\bin\Debug\Petron.pdb

@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DFAA8AB4-0C3B-416D-A057-0E5A3DE92FE0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Petron</RootNamespace>
+    <AssemblyName>Petron</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.5.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="All_Petron_dateRange_Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="All_Petron_dateRange_Reports.Designer.cs">
+      <DependentUpon>All_Petron_dateRange_Reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="All_Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="All_Reports.Designer.cs">
+      <DependentUpon>All_Reports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Billing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Billing.Designer.cs">
+      <DependentUpon>Billing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Billing_Statement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Billing_Statement.Designer.cs">
+      <DependentUpon>Billing_Statement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dbpetron2CollectiblesDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbpetron2CollectiblesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbpetron2CollectiblesDateRangeDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbpetron2CollectiblesDateRangeDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbpetron2CustomerTransactionsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbpetron2CustomerTransactionsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbpetron2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbpetron2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbpetron2DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbpetron2DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbpetron2PrintCollectionsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbpetron2PrintCollectionsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Order_Entry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Order_Entry.Designer.cs">
+      <DependentUpon>Order_Entry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Category.Designer.cs">
+      <DependentUpon>Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classification.Designer.cs">
+      <DependentUpon>Classification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer.Designer.cs">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="generateID.cs" />
+    <Compile Include="Pay_Balance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pay_Balance.Designer.cs">
+      <DependentUpon>Pay_Balance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="POS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="POS.Designer.cs">
+      <DependentUpon>POS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print_Collectibles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print_Collectibles.Designer.cs">
+      <DependentUpon>Print_Collectibles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print_Collections.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print_Collections.Designer.cs">
+      <DependentUpon>Print_Collections.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print_Customer_Transactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print_Customer_Transactions.Designer.cs">
+      <DependentUpon>Print_Customer_Transactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product_Stock_Entries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product_Stock_Entries.Designer.cs">
+      <DependentUpon>Product_Stock_Entries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sales_and_Expenses_Summary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sales_and_Expenses_Summary.Designer.cs">
+      <DependentUpon>Sales_and_Expenses_Summary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sales_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sales_Report.Designer.cs">
+      <DependentUpon>Sales_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock_Entry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock_Entry.Designer.cs">
+      <DependentUpon>Stock_Entry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock_Entry_Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock_Entry_Inventory.Designer.cs">
+      <DependentUpon>Stock_Entry_Inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock_Monitoring.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock_Monitoring.Designer.cs">
+      <DependentUpon>Stock_Monitoring.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sub_Classification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub_Classification.Designer.cs">
+      <DependentUpon>Sub_Classification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock_Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock_Registration.Designer.cs">
+      <DependentUpon>Stock_Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PETRON Billing and Cashiering System.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PETRON Billing and Cashiering System.Designer.cs">
+      <DependentUpon>PETRON Billing and Cashiering System.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier.Designer.cs">
+      <DependentUpon>Supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="supplier_2.cs" />
+    <Compile Include="Type.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Type.Designer.cs">
+      <DependentUpon>Type.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Viscosity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Viscosity.Designer.cs">
+      <DependentUpon>Viscosity.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="All_Petron_dateRange_Reports.resx">
+      <DependentUpon>All_Petron_dateRange_Reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="All_Reports.resx">
+      <DependentUpon>All_Reports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Billing.resx">
+      <DependentUpon>Billing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="billingstatementreceipt.rdlc" />
+    <EmbeddedResource Include="Billing_Statement.resx">
+      <DependentUpon>Billing_Statement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Order_Entry.resx">
+      <DependentUpon>Order_Entry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Category.resx">
+      <DependentUpon>Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classification.resx">
+      <DependentUpon>Classification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer.resx">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pay_Balance.resx">
+      <DependentUpon>Pay_Balance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="POS.resx">
+      <DependentUpon>POS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print_Collectibles.resx">
+      <DependentUpon>Print_Collectibles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print_Collections.resx">
+      <DependentUpon>Print_Collections.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print_Customer_Transactions.resx">
+      <DependentUpon>Print_Customer_Transactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product_Stock_Entries.resx">
+      <DependentUpon>Product_Stock_Entries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Report4.rdlc" />
+    <EmbeddedResource Include="Report5.rdlc" />
+    <EmbeddedResource Include="Report6.rdlc" />
+    <EmbeddedResource Include="Sales_and_Expenses_Summary.resx">
+      <DependentUpon>Sales_and_Expenses_Summary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sales_Report.resx">
+      <DependentUpon>Sales_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock_Entry.resx">
+      <DependentUpon>Stock_Entry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock_Entry_Inventory.resx">
+      <DependentUpon>Stock_Entry_Inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock_Monitoring.resx">
+      <DependentUpon>Stock_Monitoring.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub_Classification.resx">
+      <DependentUpon>Sub_Classification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PETRON Billing and Cashiering System.resx">
+      <DependentUpon>PETRON Billing and Cashiering System.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Stock_Registration.resx">
+      <DependentUpon>Stock_Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Supplier.resx">
+      <DependentUpon>Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Type.resx">
+      <DependentUpon>Type.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Viscosity.resx">
+      <DependentUpon>Viscosity.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="dbpetron2CollectiblesDataSet.xsc">
+      <DependentUpon>dbpetron2CollectiblesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbpetron2CollectiblesDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbpetron2CollectiblesDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbpetron2CollectiblesDataSet.xss">
+      <DependentUpon>dbpetron2CollectiblesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbpetron2CollectiblesDateRangeDataSet.xsc">
+      <DependentUpon>dbpetron2CollectiblesDateRangeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbpetron2CollectiblesDateRangeDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbpetron2CollectiblesDateRangeDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbpetron2CollectiblesDateRangeDataSet.xss">
+      <DependentUpon>dbpetron2CollectiblesDateRangeDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbpetron2CustomerTransactionsDataSet.xsc">
+      <DependentUpon>dbpetron2CustomerTransactionsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbpetron2CustomerTransactionsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbpetron2CustomerTransactionsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbpetron2CustomerTransactionsDataSet.xss">
+      <DependentUpon>dbpetron2CustomerTransactionsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbpetron2DataSet.xsc">
+      <DependentUpon>dbpetron2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbpetron2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbpetron2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbpetron2DataSet.xss">
+      <DependentUpon>dbpetron2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbpetron2DataSet1.xsc">
+      <DependentUpon>dbpetron2DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dbpetron2DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbpetron2DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbpetron2DataSet1.xss">
+      <DependentUpon>dbpetron2DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dbpetron2PrintCollectionsDataSet.xsc">
+      <DependentUpon>dbpetron2PrintCollectionsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbpetron2PrintCollectionsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbpetron2PrintCollectionsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbpetron2PrintCollectionsDataSet.xss">
+      <DependentUpon>dbpetron2PrintCollectionsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO.Petron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\andro124.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\petron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Petron6.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

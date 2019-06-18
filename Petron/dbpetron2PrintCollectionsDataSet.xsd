@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dbpetron2PrintCollectionsDataSet" targetNamespace="http://tempuri.org/dbpetron2PrintCollectionsDataSet.xsd" xmlns:mstns="http://tempuri.org/dbpetron2PrintCollectionsDataSet.xsd" xmlns="http://tempuri.org/dbpetron2PrintCollectionsDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="dbpetron2ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="dbpetron2ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Petron.Properties.Settings.GlobalReference.Default.dbpetron2ConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="view_collections_daterangeTableAdapter" GeneratorDataComponentClassName="view_collections_daterangeTableAdapter" Name="view_collections_daterange" UserDataComponentName="view_collections_daterangeTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="dbpetron2ConnectionString (Settings)" DbObjectName="dbpetron2.view_collections_daterange" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `customer_name`, `totalamount`, `totalamountpaid`, `balance`, `date_order`, `bill_remark` FROM `dbpetron2`.`view_collections_daterange`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="customer_name" DataSetColumn="customer_name" />
+              <Mapping SourceColumn="totalamount" DataSetColumn="totalamount" />
+              <Mapping SourceColumn="totalamountpaid" DataSetColumn="totalamountpaid" />
+              <Mapping SourceColumn="balance" DataSetColumn="balance" />
+              <Mapping SourceColumn="date_order" DataSetColumn="date_order" />
+              <Mapping SourceColumn="bill_remark" DataSetColumn="bill_remark" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dbpetron2PrintCollectionsDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="dbpetron2PrintCollectionsDataSet" msprop:Generator_UserDSName="dbpetron2PrintCollectionsDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="view_collections_daterange" msprop:Generator_TableClassName="view_collections_daterangeDataTable" msprop:Generator_TableVarName="tableview_collections_daterange" msprop:Generator_TablePropName="view_collections_daterange" msprop:Generator_RowDeletingName="view_collections_daterangeRowDeleting" msprop:Generator_RowChangingName="view_collections_daterangeRowChanging" msprop:Generator_RowEvHandlerName="view_collections_daterangeRowChangeEventHandler" msprop:Generator_RowDeletedName="view_collections_daterangeRowDeleted" msprop:Generator_UserTableName="view_collections_daterange" msprop:Generator_RowChangedName="view_collections_daterangeRowChanged" msprop:Generator_RowEvArgName="view_collections_daterangeRowChangeEvent" msprop:Generator_RowClassName="view_collections_daterangeRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="customer_name" msprop:Generator_ColumnVarNameInTable="columncustomer_name" msprop:Generator_ColumnPropNameInRow="customer_name" msprop:Generator_ColumnPropNameInTable="customer_nameColumn" msprop:Generator_UserColumnName="customer_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="99" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="totalamount" msprop:Generator_ColumnVarNameInTable="columntotalamount" msprop:Generator_ColumnPropNameInRow="totalamount" msprop:Generator_ColumnPropNameInTable="totalamountColumn" msprop:Generator_UserColumnName="totalamount" type="xs:double" />
+              <xs:element name="totalamountpaid" msprop:Generator_ColumnVarNameInTable="columntotalamountpaid" msprop:Generator_ColumnPropNameInRow="totalamountpaid" msprop:Generator_ColumnPropNameInTable="totalamountpaidColumn" msprop:Generator_UserColumnName="totalamountpaid" type="xs:double" />
+              <xs:element name="balance" msprop:Generator_ColumnVarNameInTable="columnbalance" msprop:Generator_ColumnPropNameInRow="balance" msprop:Generator_ColumnPropNameInTable="balanceColumn" msprop:Generator_UserColumnName="balance" type="xs:double" />
+              <xs:element name="date_order" msprop:Generator_ColumnVarNameInTable="columndate_order" msprop:Generator_ColumnPropNameInRow="date_order" msprop:Generator_ColumnPropNameInTable="date_orderColumn" msprop:Generator_UserColumnName="date_order">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="99" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="bill_remark" msprop:Generator_ColumnVarNameInTable="columnbill_remark" msprop:Generator_ColumnPropNameInRow="bill_remark" msprop:Generator_ColumnPropNameInTable="bill_remarkColumn" msprop:Generator_UserColumnName="bill_remark">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="99" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
